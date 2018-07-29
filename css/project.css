@@ -1,5 +1,8 @@
 #myPage{
-	background-color: white;
+	background-color:  #FFEBD5;
+}
+.container#myPage{
+	width:100%;
 }
 .container-fluid{
 		height:60px;
@@ -14,10 +17,10 @@
 	margin-top: -40px;
 }
 div.navbar-header{
-	width:1000px;
+	width:100%;
 }
 #home{
-	margin-left: 350px;
+	margin-left: 250px;
 }
 #div1{
 	background-image: url("../img/div1.jpg");
