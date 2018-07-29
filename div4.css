@@ -1,0 +1,36 @@
+
+#div4_header{
+  margin-top: -35px;
+}
+
+#text{
+  font-weight: bold;
+  font-size: 34px;
+}
+.block1{
+  height:90px;
+  width:100%;
+  background-color: #ddc9c9;
+  border-radius: 0px 0px 10px 10px;
+  box-shadow: 5px 8px 10px #888888;
+}
+.row{
+  margin-top: 80px;
+}
+.img-responsive{
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: 5px 8px 10px #888888;
+}
+.white-cirle-div {
+    background: none repeat scroll 0 0 ;
+    border-radius: 110px;
+    display: block;
+    height: 80px;
+    left: 45%;
+    margin-left: -30px;
+    margin-top:  10px;
+    position: absolute;
+    text-align: center;
+    top: 22%;
+    vertical-align: middle;
+}

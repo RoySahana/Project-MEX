@@ -1,0 +1,27 @@
+footer.container-fluid {
+   left: 0;
+	 right:0;
+   bottom: 0;
+   width: 100%;
+   background-color: #211b5c;
+   color: white;
+   text-align: center;
+	 height:150px;
+	 margin-top:-30px;
+}
+footer.container-fluid>img{
+  margin-bottom:-60px;
+  margin-right:1180px;
+}
+.logoIcon{
+  margin-right:1070px;
+}
+div.logoIcon>i{
+  font-size:30px;
+  height: 30px;
+  padding:5px;
+}
+footer>p{
+  height:40px;
+  text-align:left;
+}
