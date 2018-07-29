@@ -20,7 +20,7 @@ div.navbar-header{
 	margin-left: 350px;
 }
 #div1{
-	background-image: url("Img/div1.jpg");
+	background-image: url("../Img/div1.jpg");
 	height: 300px;
 	width:auto;
 	margin-top: -20px;
@@ -59,7 +59,7 @@ div.navbar-header{
 	width:150px
 }
 #div2{
-	background-image: url("Img/div2.jpg");
+	background-image: url("../Img/div2.jpg");
 	height: 450px;
 	width:auto;
 	margin-top: -30px;
@@ -98,25 +98,25 @@ ul li{
 	text-decoration: underline;
 }
 #div3{
-	background-image: url("Img/div3.jpg");
+	background-image: url("../Img/div3.jpg");
 	height: 450px;
 	width:auto;
 	margin-top: -30px;
 }
 #div4{
-	background-image: url("Img/div4.jpg");
+	background-image: url("../Img/div4.jpg");
 	height: 400px;
 	width:auto;
 	margin-top: -30px;
 }
 #div5{
-	background-image: url("Img/div5.jpg");
+	background-image: url("../Img/div5.jpg");
 	height: 300px;
 	width:auto;
 	margin-top: -30px;
 }
 #div6{
-	background-image: url("Img/div6.jpg");
+	background-image: url("../Img/div6.jpg");
 	height: 300px;
 	width:auto;
 	margin-top: -30px;
